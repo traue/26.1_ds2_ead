@@ -1,6 +1,4 @@
-# 📄 Aula 6 - 27-04
-
-# Roteiro de Aula — Padrões GoF Estruturais
+# Padrões GoF Estruturais
 
 **Disciplina:** Desenvolvimento de Sistemas II  
 **Aula:** 6
